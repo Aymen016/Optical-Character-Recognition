@@ -1,6 +1,7 @@
 # 🖼️ Optical Character Recognition (OCR) System
 
-![G](https://github.com/user-attachments/assets/9a93decf-ab85-4de9-96af-e284dac45672)
+![image](https://github.com/user-attachments/assets/892c07f9-b05b-43b2-a318-071bf58f7e07)
+
 
 
 
