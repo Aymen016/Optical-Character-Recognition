@@ -1,5 +1,9 @@
 # 🖼️ Optical Character Recognition (OCR) System
 
+![G](https://github.com/user-attachments/assets/9a93decf-ab85-4de9-96af-e284dac45672)
+
+
+
 ## 🌟 About
 This project implements a **Naive Bayes-based OCR System** that recognizes handwritten digits (2 and 4). The goal is to process images, extract features, and predict digits based on pixel values. It’s a simple yet effective application of machine learning techniques to solve Optical Character Recognition tasks.
 
