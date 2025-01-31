@@ -40,7 +40,7 @@ In this notebook, we implement the core logic of the **Naive Bayes OCR System**.
 Here’s a snapshot of the OCR system in action:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56051ea0-4bb9-4bfe-b202-4e445e72c854" alt="Image 1" width="40%" />
+  <img src="https://github.com/user-attachments/assets/130c1b3f-6aa1-404f-b305-47990ff84571" alt="Image 1" width="40%" />
   <img src= "https://github.com/user-attachments/assets/d10438da-d512-4fbf-afbb-602a998f0018" alt="Image 2" width="40%" />
 </p>
 
