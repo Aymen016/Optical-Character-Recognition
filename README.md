@@ -30,10 +30,20 @@ While Naive Bayes excels in simple cases, it may struggle with more complex feat
 - **Hyperparameter Tuning**: Enhance the model’s performance by tuning hyperparameters and experimenting with different machine learning algorithms.
 - **Real-Time OCR**: Develop a **real-time OCR system** for applications like document scanning and live text recognition.
 
-## 🎯 Conclusion
+## 📝 Notebook Overview
+In this notebook, we implement the core logic of the **Naive Bayes OCR System**. The steps followed are:
+1. **Preprocessing the Image**: Convert raw pixel data into arrays and images for model input.
+2. **Feature Extraction**: Extract pixel probabilities for the Naive Bayes model.
+3. **Training the Model**: Train the Naive Bayes classifier on labeled images of handwritten digits.
+4. **Model Evaluation**: Calculate accuracy, confusion matrix, and class-wise accuracy for evaluating model performance.
+
+Here’s a snapshot of the OCR system in action:
+
+
+## 🚀 Conclusion
 This OCR system serves as an excellent starting point for recognizing handwritten digits using a **Naive Bayes classifier**. It demonstrates the efficiency of Naive Bayes in solving image classification tasks and lays the foundation for future work in more advanced OCR systems.
 
 Feel free to **fork** this repository, **contribute**, and make enhancements! Let's build better OCR solutions together. 🤝✨
 
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE file](https://github.com/Aymen016/Optical-Character-Recognition/blob/master/LICENSE) for more details.
